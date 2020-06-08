@@ -15,7 +15,5 @@ public class MainStater {
         AnnotationConfigApplicationContext a = new AnnotationConfigApplicationContext(SpringTestConfig.class);
         Person person = a.getBean(Person.class);
         System.out.println(person);
-        System.out.println("dev");
-        System.out.println("hot_fix");
     }
 }
