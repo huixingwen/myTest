@@ -16,5 +16,7 @@ public class MainStater {
         Person person = a.getBean(Person.class);
         System.out.println(person);
         System.out.println("beta");
+        System.out.println("beta");
+        System.out.println("beta");
     }
 }
