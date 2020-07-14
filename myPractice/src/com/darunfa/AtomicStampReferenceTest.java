@@ -3,7 +3,7 @@ package com.darunfa;
 import java.util.concurrent.atomic.AtomicStampedReference;
 
 /**
- * @创建人 wenxinghui
+ * @创建人 wenxinghui 测试
  * @创建时间 2019/9/20 9:59
  * @描述 时间戳的原子引用
  */
